@@ -1,8 +1,12 @@
 .nav-spacing {
-        margin-left: 10px;
-        text-decoration: none;
-      }
+  margin-left: 10px;
+  text-decoration: none;
+}
 
 .nav-menu {
-        text-align: right;
-      }
+  text-align: right;
+}
+
+.twitter-loge {
+  text-decoration: none;
+}
